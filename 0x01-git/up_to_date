@@ -1,0 +1,4 @@
+#GIT COMMANDS USED
+git add .
+git commit -m "you message"
+git push
